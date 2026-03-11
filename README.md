@@ -29,9 +29,6 @@ WebサービスのQAエンジニアとして、テスト設計・自動化・品
 その経験を土台に、現在は **Webエンジニアへの転向を目指して開発を学習中**。
 
 ---
-
-## `$ cat tech_stack.json`
-
 ### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -68,48 +65,3 @@ WebサービスのQAエンジニアとして、テスト設計・自動化・品
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
-
-## `$ git log --stat`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=qa-marmot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=8"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qa-marmot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=qa-marmot&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=8"/>
-
-</div>
-
----
-
-## `$ tail -f learning.log`
-
-```
-[NOW]  Web application architecture
-[NOW]  Full-stack development (Frontend ↔ Backend)
-[NOW]  CI/CD pipeline construction
-[NOW]  Test automation best practices
-[NEXT] Cloud infrastructure (AWS / GCP)
-[NEXT] OSS contribution
-```
-
----
-
-## `$ cat contact.txt`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-qa--marmot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qa-marmot)
-
-</div>
-
----
-
-<div align="center">
-
-*"Quality is not an act, it is a habit."*
-
-</div>

@@ -9,7 +9,7 @@
 <div align="center">
 
 ### **Mikuto Yabushita**
-`QA Engineer` **→** `Web Engineer`
+`QA Engineer` **×** `Web Engineer`
 
 *Quality-focused development · Test automation · Modern Frontend*
 

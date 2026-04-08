@@ -21,7 +21,7 @@
 
 ```yaml
 name:     Mikuto Yabushita
-role:     QA Engineer → Web Engineer
+role:     QA Engineer × Web Engineer
 strength: 品質保証の視点 × フロントエンド / バックエンド開発
 ```
 

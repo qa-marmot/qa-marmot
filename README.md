@@ -22,12 +22,32 @@
 ```yaml
 name:     Mikuto Yabushita
 role:     QA Engineer × Web Engineer
-strength: 品質保証の視点 × フロントエンド / バックエンド開発
+location: Ishikawa, Japan
+strength: Quality Assurance × Web Development × Test Automation
 ```
 
-WebサービスのQAエンジニアとして2年半、テスト設計・自動化・品質保証に従事。  
+WebサービスのQAエンジニアとして約2年半、テスト設計・不具合管理・スクラム開発・自動化に従事してきました。
+
+現在は、Astro / TypeScript / Cloudflare / microCMS / Playwright などを用いて、小規模事業者向けWebサイト制作や個人開発に取り組んでいます。
+
+QA経験を活かし、**品質を意識したWeb開発**、**壊れにくいフロントエンド**、**テスト自動化を組み込んだ開発プロセス**を強みとしています。
 
 ---
+
+## 🧩 Core Skills
+
+- Web frontend development with **Astro / TypeScript / React / Tailwind CSS**
+- Static site and web application development with **Cloudflare Pages / Workers**
+- Test design, bug tracking, and quality assurance in Scrum development
+- E2E testing and test automation with **Playwright / Selenium**
+- CI/CD workflow setup with **GitHub Actions**
+- CMS implementation and content modeling with **microCMS**
+- Business process automation with **Python / Google Apps Script**
+
+---
+
+## 🛠️ Tech Stack
+
 ### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,6 +61,8 @@ WebサービスのQAエンジニアとして2年半、テスト設計・自動�
 
 ### ⚙️ Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -58,6 +80,7 @@ WebサービスのQAエンジニアとして2年半、テスト設計・自動�
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![microCMS](https://img.shields.io/badge/microCMS-FF3366?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
@@ -65,3 +88,65 @@ WebサービスのQAエンジニアとして2年半、テスト設計・自動�
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
+
+## 🧪 QA / Testing Experience
+
+- Webサービスのテスト設計・実行
+- Jiraを用いた不具合登録・管理・進捗追跡
+- スクラム開発におけるスプリント計画、レビュー、レトロスペクティブへの参加
+- Python / Selenium / PyAutoGUI / Google Apps Script を用いた業務自動化
+- Playwright によるE2Eテストの設計・実装
+- GitHub Actions を用いたCI/CDへのテスト組み込み
+
+---
+
+## 🚀 Currently Working On
+
+- Astro / TypeScript / Tailwind CSS を用いたWebサイト制作
+- Cloudflare Pages / Workers を活用した静的サイト・小規模Webアプリ開発
+- microCMSを用いた更新しやすいCMS設計
+- Playwright / Vitest を使った品質担保
+- QA経験を活かした、壊れにくく保守しやすいWeb制作
+
+---
+
+## 📜 Certifications
+
+- JSTQB認定テスト技術者資格 Foundation Level
+- 基本情報技術者試験
+- Python 3 エンジニア認定基礎試験
+- Python 3 エンジニア認定実践試験
+- Webクリエイター能力認定試験 エキスパート
+- PHP8技術者認定初級試験
+
+---
+
+## 📌 Focus Areas
+
+```yaml
+web_development:
+  - Astro
+  - TypeScript
+  - React
+  - Tailwind CSS
+  - Cloudflare
+
+quality_assurance:
+  - Test Design
+  - E2E Testing
+  - Test Automation
+  - Playwright
+  - Selenium
+
+career_interests:
+  - Web Engineer
+  - Frontend Engineer
+  - QA Engineer
+  - SET / Test Automation Engineer
+```
+
+---
+
+## 📫 Links
+
+- mysite : https://tsukuru-web.com/

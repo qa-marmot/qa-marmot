@@ -1,152 +1,78 @@
-<div align="center">
+# Mikuto Yabushita
 
-<img src="https://komarev.com/ghpvc/?username=qa-marmot&label=profile+views&color=0d1117&style=for-the-badge&labelColor=0d1117" />
+## QA Engineer × Web Engineer
 
-</div>
+I build reliable web products by designing verification into delivery — from test strategy and automation to accessible interfaces, CI quality gates, and Cloudflare-based architecture.
 
----
+Kanazawa, Japan · [Portfolio](https://tsukuru-web.com/)
 
-<div align="center">
+**Core focus:** TypeScript · Astro / React · Playwright · Vitest · Cloudflare
 
-### **Mikuto Yabushita**
-`QA Engineer` **×** `Web Engineer`
+## Selected Projects
 
-*Quality-focused development · Test automation · Modern Frontend*
+### [Trellune](https://github.com/qa-marmot/trellune) · [Live demo](https://trellune-demo.pages.dev/)
 
-</div>
+Local-first 365-day English-learning PWA built for structured practice when connectivity is unreliable.
 
----
+- **Engineering:** React, TypeScript, IndexedDB, PWA, optional Cloudflare Worker + D1 sync
+- **Quality:** strict JSON contracts, unit and browser tests, offline verification, and multi-job CI
+- **Evidence:** [architecture](https://github.com/qa-marmot/trellune/blob/main/docs/ARCHITECTURE.md) · [offline & sync design](https://github.com/qa-marmot/trellune/blob/main/docs/OFFLINE_SYNC.md) · [test strategy](https://github.com/qa-marmot/trellune/blob/main/docs/TEST_STRATEGY.md) · [CI](https://github.com/qa-marmot/trellune/actions)
 
-## `$ whoami`
+### [SEO Guardian](https://github.com/qa-marmot/seo-guardian)
 
-```yaml
-name:     Mikuto Yabushita
-role:     QA Engineer × Web Engineer
-location: Ishikawa, Japan
-strength: Quality Assurance × Web Development × Test Automation
-```
+TypeScript CLI for turning SEO requirements into actionable CI feedback before deployment.
 
-WebサービスのQAエンジニアとして約2年半、テスト設計・不具合管理・スクラム開発・自動化に従事してきました。
+- **Engineering:** configurable rules, CLI reporting, and Fast / browser-backed analysis modes
+- **Quality:** configuration-to-engine integration coverage, severity-aware exit codes, and GitHub Actions CI
+- **Evidence:** [implementation](https://github.com/qa-marmot/seo-guardian/tree/main/src) · [tests](https://github.com/qa-marmot/seo-guardian/tree/main/tests) · [CI](https://github.com/qa-marmot/seo-guardian/actions)
 
-現在は、Astro / TypeScript / Cloudflare / microCMS / Playwright などを用いて、小規模事業者向けWebサイト制作や個人開発に取り組んでいます。
+### [Harmony Music School](https://github.com/qa-marmot/astro-music-school)
 
-QA経験を活かし、**品質を意識したWeb開発**、**壊れにくいフロントエンド**、**テスト自動化を組み込んだ開発プロセス**を強みとしています。
+Production-minded Astro reference site for a small service business, with deliberate safeguards for demo content and forms.
 
----
+- **Engineering:** Astro, TypeScript, Tailwind CSS, optional microCMS, static deployment
+- **Quality:** input validation and sanitization, Playwright E2E / accessibility / link / responsive checks, visual regression, and Lighthouse checks
+- **Evidence:** [test suite](https://github.com/qa-marmot/astro-music-school/tree/main/tests) · [Actions](https://github.com/qa-marmot/astro-music-school/actions) · [design decisions](https://github.com/qa-marmot/astro-music-school/blob/main/README.md)
 
-## 🧩 Core Skills
+### [V-Log](https://github.com/qa-marmot/vlog-volleyball)
 
-- Web frontend development with **Astro / TypeScript / React / Tailwind CSS**
-- Static site and web application development with **Cloudflare Pages / Workers**
-- Test design, bug tracking, and quality assurance in Scrum development
-- E2E testing and test automation with **Playwright / Selenium**
-- CI/CD workflow setup with **GitHub Actions**
-- CMS implementation and content modeling with **microCMS**
-- Business process automation with **Python / Google Apps Script**
+Volleyball scorekeeping and analysis app that combines quick match input with deeper, shareable analysis.
 
----
+- **Engineering:** Astro SSR, React, Hono, Cloudflare D1, Drizzle ORM, and local persisted match state
+- **Quality:** unit and Playwright E2E tests; strategy-board behavior is documented alongside the implementation
+- **Evidence:** [tests](https://github.com/qa-marmot/vlog-volleyball/tree/main/tests) · [design docs](https://github.com/qa-marmot/vlog-volleyball/tree/main/docs) · [recent pull requests](https://github.com/qa-marmot/vlog-volleyball/pulls?q=is%3Apr+is%3Aclosed)
 
-## 🛠️ Tech Stack
+## What I Bring
 
-### 🎨 Frontend
+**Quality engineering**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- Test design, defect management, and risk-based verification in Scrum development
+- Regression prevention with Playwright, Vitest, and CI quality gates
+- Testable contracts and reproducible checks for AI-assisted and conventional development
 
-### ⚙️ Backend
+**Web engineering**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- Accessible, maintainable frontends with Astro, React, TypeScript, and Tailwind CSS
+- Cloudflare Pages / Workers / D1 architecture where it fits the product
+- Careful handling of demo content, form behavior, SEO, and release readiness
 
-### 🧪 Testing / QA
+## Evidence, not claims
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+- [Trellune test strategy](https://github.com/qa-marmot/trellune/blob/main/docs/TEST_STRATEGY.md) and [security notes](https://github.com/qa-marmot/trellune/blob/main/docs/SECURITY.md)
+- [SEO Guardian CI workflow](https://github.com/qa-marmot/seo-guardian/tree/main/.github/workflows) and [rule tests](https://github.com/qa-marmot/seo-guardian/tree/main/tests)
+- [Astro Music School E2E, accessibility, responsive, and visual checks](https://github.com/qa-marmot/astro-music-school/tree/main/tests/e2e)
+- [V-Log architecture and strategy-board documentation](https://github.com/qa-marmot/vlog-volleyball/tree/main/docs)
 
-### ☁️ Infrastructure & Tools
+## Experience
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![microCMS](https://img.shields.io/badge/microCMS-FF3366?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+WebサービスのQAエンジニアとして約2年半、テスト設計・不具合管理・スクラム開発・自動化に取り組んできました。現在は、QAの視点を実装と検証の両方へつなげるWeb開発に注力しています。
 
----
+## Certifications
 
-## 🧪 QA / Testing Experience
+JSTQB Foundation Level · 基本情報技術者試験 · Python 3 エンジニア認定基礎試験 · Python 3 エンジニア認定実践試験 · Webクリエイター能力認定試験 エキスパート · PHP8技術者認定初級試験
 
-- Webサービスのテスト設計・実行
-- Jiraを用いた不具合登録・管理・進捗追跡
-- スクラム開発におけるスプリント計画、レビュー、レトロスペクティブへの参加
-- Python / Selenium / PyAutoGUI / Google Apps Script を用いた業務自動化
-- Playwright によるE2Eテストの設計・実装
-- GitHub Actions を用いたCI/CDへのテスト組み込み
+## Core Stack
 
----
+**Core:** TypeScript · Astro · React · Playwright · Vitest · Cloudflare
 
-## 🚀 Currently Working On
-
-- Astro / TypeScript / Tailwind CSS を用いたWebサイト制作
-- Cloudflare Pages / Workers を活用した静的サイト・小規模Webアプリ開発
-- microCMSを用いた更新しやすいCMS設計
-- Playwright / Vitest を使った品質担保
-- QA経験を活かした、壊れにくく保守しやすいWeb制作
-
----
-
-## 📜 Certifications
-
-- JSTQB認定テスト技術者資格 Foundation Level
-- 基本情報技術者試験
-- Python 3 エンジニア認定基礎試験
-- Python 3 エンジニア認定実践試験
-- Webクリエイター能力認定試験 エキスパート
-- PHP8技術者認定初級試験
-
----
-
-## 📌 Focus Areas
-
-```yaml
-web_development:
-  - Astro
-  - TypeScript
-  - React
-  - Tailwind CSS
-  - Cloudflare
-
-quality_assurance:
-  - Test Design
-  - E2E Testing
-  - Test Automation
-  - Playwright
-  - Selenium
-
-career_interests:
-  - Web Engineer
-  - Frontend Engineer
-  - QA Engineer
-  - SET / Test Automation Engineer
-```
-
----
-
-## 📫 Links
-
-- mysite : https://tsukuru-web.com/
+**Supporting:** Hono · D1 · Drizzle ORM · Tailwind CSS · Python · PHP · microCMS
